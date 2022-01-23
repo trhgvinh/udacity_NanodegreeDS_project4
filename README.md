@@ -29,7 +29,7 @@ cd dog-project
 
 4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
 
-5. (Optional) __To install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step.
+5. (Optional) __To install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software.  Skip this step if using an EC2 GPU instance.
 
 6. (Optional) **For running the project on the local machine (and not using AWS)**, create (and activate) a new environment.
 
