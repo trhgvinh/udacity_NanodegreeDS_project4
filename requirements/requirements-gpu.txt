@@ -9,3 +9,4 @@ scikit-learn==0.18.1
 pillow==4.0.0
 ipykernel==4.6.1
 tensorflow-gpu==1.0.0
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
